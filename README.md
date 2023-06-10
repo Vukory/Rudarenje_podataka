@@ -1,4 +1,4 @@
-# Rudarenje_podataka
+# Upute
 
 #### Sadržaj rada:
 + **games.ipynb:** Izvorni kod analize podataka korištenjem skupa podataka o video igrama (https://www.kaggle.com/datasets/gregorut/videogamesales)
@@ -8,4 +8,4 @@
 
 #### Zahtjevi za izvršavanje izvornih kodova:
 + **R jezik:** https://cran.r-project.org/bin/windows/base/
-+ **Jupyter Notebook klijent** (Za isradu rada je Korišten Visual Studio Code)
++ **Jupyter Notebook klijent** (Za izradu rada je Korišten Visual Studio Code)
